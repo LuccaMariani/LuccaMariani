@@ -2,9 +2,8 @@
 #### Sientase libre de miralo, cualquier cosa me puedes mandar un mail a: juanlucamariani@gmail.com
 
 Aprovecho para contarles un poco de lo que estoy haciendo.
-Actualmente estoy en una Tecnicatura Universitaria en Programacion, en la UTN. 
-Viendo varios lenguajes de programacion de todo tipo,
-muy interesado en C# y su implementacion con Unity 😄
+Actualmente estoy en una Tecnicatura Universitaria en Programacion, en la UTN de Avellaneda. 
+Aprendiendo varios lenguajes de programacion, y ahora muy interesado en C# en conjunto con su implementacion en Unity 😄
 ··
 
 <!--
