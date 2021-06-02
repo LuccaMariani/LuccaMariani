@@ -1,4 +1,5 @@
-### Holas, este es mi github. Sientase libre de miralo un poco, cualquier cosa me puedes mandar un mail a: juanlucamariani@gmail.com
+### Holas, este es mi github. 
+#### Sientase libre de miralo, cualquier cosa me puedes mandar un mail a: juanlucamariani@gmail.com
 
 Aprovecho para contarles un poco de lo que estoy haciendo.
 Actualmente estoy en una Tecnicatura Universitaria en Programacion, en la UTN. 
