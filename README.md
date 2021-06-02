@@ -1,4 +1,9 @@
-### Hi there 👋
+### Holas, este es mi github. Aprovecho para contarles un poco de lo que estoy haciendo.
+
+### Actualmente estoy en una Tecnicatura Universitaria en Programacion, en la UTN. 
+Viendo varios lenguajes d eprogramacion de todo tipo 
+y actualmente interesado en C# y su implementacion con Unity😄
+··
 
 <!--
 **LuccaMariani/LuccaMariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
