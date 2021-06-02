@@ -1,8 +1,9 @@
-### Holas, este es mi github. Aprovecho para contarles un poco de lo que estoy haciendo.
+### Holas, este es mi github. Sientase libre de miralo un poco, cualquier cosa me puedes mandar un mail a: juanlucamariani@gmail.com
 
-### Actualmente estoy en una Tecnicatura Universitaria en Programacion, en la UTN. 
-Viendo varios lenguajes d eprogramacion de todo tipo 
-y actualmente interesado en C# y su implementacion con Unity😄
+Aprovecho para contarles un poco de lo que estoy haciendo.
+Actualmente estoy en una Tecnicatura Universitaria en Programacion, en la UTN. 
+Viendo varios lenguajes de programacion de todo tipo,
+muy interesado en C# y su implementacion con Unity 😄
 ··
 
 <!--
